@@ -1,0 +1,16 @@
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\TaskManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\TaskManager.Data.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\TaskManager.Data.AssemblyInfo.cs
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\TaskManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\TaskManager.Data.sourcelink.json
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\bin\Debug\net8.0\TaskManager.Data.deps.json
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\bin\Debug\net8.0\TaskManager.Data.dll
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\bin\Debug\net8.0\TaskManager.Data.pdb
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\bin\Debug\net8.0\TaskManager.Core.dll
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\bin\Debug\net8.0\TaskManager.Core.pdb
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\TaskManager.Data.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\TaskMana.CE20C279.Up2Date
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\TaskManager.Data.dll
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\refint\TaskManager.Data.dll
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\TaskManager.Data.pdb
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab3\Lab3\TaskManager.Data\obj\Debug\net8.0\ref\TaskManager.Data.dll
