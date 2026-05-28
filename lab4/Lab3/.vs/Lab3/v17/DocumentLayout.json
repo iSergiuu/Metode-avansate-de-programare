@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|solutionrelative:lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|solutionrelative:lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\lab3\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|solutionrelative:lab3\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E41DC3D-A7BE-4523-8DD0-3A8E5B8AD5DE}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.tests\\reportservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E41DC3D-A7BE-4523-8DD0-3A8E5B8AD5DE}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\reportservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\interfaces\\itaskwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\interfaces\\itaskwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\interfaces\\itaskreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\interfaces\\itaskreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\lab3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\TaskManager.UI.csproj|solutionrelative:lab3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\Lab3.csproj|C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD6A8C9E-81D1-49A0-BDD1-44084A6CEB8B}|Lab3\\Lab3.csproj|solutionrelative:lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73908DB-073F-4645-A558-C13290B5C7B8}|TaskManager.Data\\TaskManager.Data.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.data\\repositories\\sqlitetaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73908DB-073F-4645-A558-C13290B5C7B8}|TaskManager.Data\\TaskManager.Data.csproj|solutionrelative:taskmanager.data\\repositories\\sqlitetaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E41DC3D-A7BE-4523-8DD0-3A8E5B8AD5DE}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.tests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E41DC3D-A7BE-4523-8DD0-3A8E5B8AD5DE}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E41DC3D-A7BE-4523-8DD0-3A8E5B8AD5DE}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.tests\\taskhierarchytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E41DC3D-A7BE-4523-8DD0-3A8E5B8AD5DE}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\taskhierarchytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E41DC3D-A7BE-4523-8DD0-3A8E5B8AD5DE}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.tests\\taskvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E41DC3D-A7BE-4523-8DD0-3A8E5B8AD5DE}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\taskvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\models\\recurringtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\recurringtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\models\\deadlinetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\deadlinetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73908DB-073F-4645-A558-C13290B5C7B8}|TaskManager.Data\\TaskManager.Data.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.data\\repositories\\inmemorytaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73908DB-073F-4645-A558-C13290B5C7B8}|TaskManager.Data\\TaskManager.Data.csproj|solutionrelative:taskmanager.data\\repositories\\inmemorytaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\enums\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\enums\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\notifications\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\notifications\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\notifications\\slacknotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\notifications\\slacknotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\notifications\\filelognotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\notifications\\filelognotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\notifications\\consolenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\notifications\\consolenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\interfaces\\itasknotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\interfaces\\itasknotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\enums\\tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\enums\\tasktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\lab3\\taskmanager.core\\services\\taskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1876A4-D89F-4AE9-A1E0-CB8007FC81B0}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\services\\taskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Form1.resx",
+              "RelativeDocumentMoniker": "Lab3\\Form1.resx",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Form1.resx",
+              "RelativeToolTip": "Lab3\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-24T16:00:41.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3\\Form1.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:23:16.824Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3\\Form1.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Form1.cs",
+              "RelativeToolTip": "Lab3\\Form1.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAiwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T13:34:57.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Tests\\ReportServiceTests.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\ReportServiceTests.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Tests\\ReportServiceTests.cs",
+              "RelativeToolTip": "TaskManager.Tests\\ReportServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:51:27.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Services\\ReportService.cs",
+              "RelativeToolTip": "TaskManager.Core\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:49:35.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Program.cs",
+              "RelativeToolTip": "Lab3\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:55:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskWriter.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Interfaces\\ITaskWriter.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Interfaces\\ITaskWriter.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Interfaces\\ITaskWriter.cs",
+              "RelativeToolTip": "TaskManager.Core\\Interfaces\\ITaskWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:47:17.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskReader.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Interfaces\\ITaskReader.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Interfaces\\ITaskReader.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Interfaces\\ITaskReader.cs",
+              "RelativeToolTip": "TaskManager.Core\\Interfaces\\ITaskReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:46:40.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskManager.Core\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:15:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab3\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T13:35:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SqliteTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Data\\Repositories\\SqliteTaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager.Data\\Repositories\\SqliteTaskRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Data\\Repositories\\SqliteTaskRepository.cs",
+              "RelativeToolTip": "TaskManager.Data\\Repositories\\SqliteTaskRepository.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAowMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:32:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\Lab3\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3\\Form1.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab3\\Lab3\\Lab3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\lab3\\Lab3\\Lab3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:49:44.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Tests\\TaskServiceTests.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\TaskServiceTests.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Tests\\TaskServiceTests.cs",
+              "RelativeToolTip": "TaskManager.Tests\\TaskServiceTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:01:19.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskHierarchyTests.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Tests\\TaskHierarchyTests.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\TaskHierarchyTests.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Tests\\TaskHierarchyTests.cs",
+              "RelativeToolTip": "TaskManager.Tests\\TaskHierarchyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:01:05.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Tests\\TaskValidatorTests.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\TaskValidatorTests.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Tests\\TaskValidatorTests.cs",
+              "RelativeToolTip": "TaskManager.Tests\\TaskValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:00:49.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskManager.Core\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:44:36.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InMemoryTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Data\\Repositories\\InMemoryTaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager.Data\\Repositories\\InMemoryTaskRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Data\\Repositories\\InMemoryTaskRepository.cs",
+              "RelativeToolTip": "TaskManager.Data\\Repositories\\InMemoryTaskRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA5wDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:24:18.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecurringTask.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Models\\RecurringTask.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\RecurringTask.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Models\\RecurringTask.cs",
+              "RelativeToolTip": "TaskManager.Core\\Models\\RecurringTask.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:45:02.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Enums\\NotificationType.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Enums\\NotificationType.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Enums\\NotificationType.cs",
+              "RelativeToolTip": "TaskManager.Core\\Enums\\NotificationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:32:54.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Notifications\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Notifications\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Notifications\\EmailNotifier.cs",
+              "RelativeToolTip": "TaskManager.Core\\Notifications\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:18:02.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SlackNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Notifications\\SlackNotifier.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Notifications\\SlackNotifier.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Notifications\\SlackNotifier.cs",
+              "RelativeToolTip": "TaskManager.Core\\Notifications\\SlackNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:20:11.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FileLogNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Notifications\\FileLogNotifier.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Notifications\\FileLogNotifier.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Notifications\\FileLogNotifier.cs",
+              "RelativeToolTip": "TaskManager.Core\\Notifications\\FileLogNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:18:40.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConsoleNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Notifications\\ConsoleNotifier.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Notifications\\ConsoleNotifier.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Notifications\\ConsoleNotifier.cs",
+              "RelativeToolTip": "TaskManager.Core\\Notifications\\ConsoleNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:17:37.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeadlineTask.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Models\\DeadlineTask.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\DeadlineTask.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Models\\DeadlineTask.cs",
+              "RelativeToolTip": "TaskManager.Core\\Models\\DeadlineTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:45:18.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManager.Core\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:21:29.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITaskNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Interfaces\\ITaskNotifier.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Interfaces\\ITaskNotifier.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Interfaces\\ITaskNotifier.cs",
+              "RelativeToolTip": "TaskManager.Core\\Interfaces\\ITaskNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:15:40.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaskType.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Enums\\TaskType.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Enums\\TaskType.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Enums\\TaskType.cs",
+              "RelativeToolTip": "TaskManager.Core\\Enums\\TaskType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:32:39.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Enums\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Enums\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Enums\\TaskStatus.cs",
+              "RelativeToolTip": "TaskManager.Core\\Enums\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:31:50.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Enums\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Enums\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Enums\\TaskPriority.cs",
+              "RelativeToolTip": "TaskManager.Core\\Enums\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:32:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TaskValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Services\\TaskValidator.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Services\\TaskValidator.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab4\\Lab3\\TaskManager.Core\\Services\\TaskValidator.cs",
+              "RelativeToolTip": "TaskManager.Core\\Services\\TaskValidator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:17:05.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
