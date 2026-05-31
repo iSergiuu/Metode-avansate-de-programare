@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E373A192-1F67-45C6-892E-44134B63C88C}|lab5\\lab5.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E373A192-1F67-45C6-892E-44134B63C88C}|lab5\\lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\configuration\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\configuration\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\documentgenerator.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\documentgenerator.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\models\\documentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\models\\documentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\factories\\textdocumentcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\factories\\textdocumentcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\factories\\htmldocumentcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\factories\\htmldocumentcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\factories\\idocumentcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\factories\\idocumentcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\components\\textfooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\components\\textfooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\components\\textbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\components\\textbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\components\\textheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\components\\textheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\components\\htmlfooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\components\\htmlfooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\components\\htmlbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\components\\htmlbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\components\\htmlheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\components\\htmlheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\components\\ifooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\components\\ifooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\components\\ibody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\components\\ibody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\components\\iheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\components\\iheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\renderers\\documentrendererfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\renderers\\documentrendererfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\renderers\\invoicerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\renderers\\invoicerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\renderers\\reportrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\renderers\\reportrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\renderers\\idocumentrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\renderers\\idocumentrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|c:\\users\\user1\\desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\documentgenerator.core\\builders\\documentdatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275829EB-AC40-4E94-908F-FD706D63F193}|DocumentGenerator.Core\\DocumentGenerator.Core.csproj|solutionrelative:documentgenerator.core\\builders\\documentdatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Configuration\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Configuration\\ConfigurationManager.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Configuration\\ConfigurationManager.cs*",
+              "RelativeToolTip": "DocumentGenerator.Core\\Configuration\\ConfigurationManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:23:22.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\lab5\\Program.cs",
+              "RelativeDocumentMoniker": "lab5\\Program.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\lab5\\Program.cs*",
+              "RelativeToolTip": "lab5\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:13:57.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentGenerator.Core",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\DocumentGenerator.Core.csproj",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\DocumentGenerator.Core.csproj",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\DocumentGenerator.Core.csproj*",
+              "RelativeToolTip": "DocumentGenerator.Core\\DocumentGenerator.Core.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-04T15:19:51.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextDocumentComponentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Factories\\TextDocumentComponentFactory.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Factories\\TextDocumentComponentFactory.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Factories\\TextDocumentComponentFactory.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Factories\\TextDocumentComponentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:09:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentData.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Models\\DocumentData.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Models\\DocumentData.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Models\\DocumentData.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Models\\DocumentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:20:37.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtmlDocumentComponentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Factories\\HtmlDocumentComponentFactory.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Factories\\HtmlDocumentComponentFactory.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Factories\\HtmlDocumentComponentFactory.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Factories\\HtmlDocumentComponentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:08:52.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDocumentComponentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Factories\\IDocumentComponentFactory.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Factories\\IDocumentComponentFactory.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Factories\\IDocumentComponentFactory.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Factories\\IDocumentComponentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:08:37.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextFooter.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\TextFooter.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Components\\TextFooter.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\TextFooter.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Components\\TextFooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:07:56.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextBody.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\TextBody.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Components\\TextBody.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\TextBody.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Components\\TextBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:07:43.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextHeader.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\TextHeader.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Components\\TextHeader.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\TextHeader.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Components\\TextHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:07:31.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HtmlFooter.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\HtmlFooter.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Components\\HtmlFooter.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\HtmlFooter.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Components\\HtmlFooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:06:58.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HtmlBody.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\HtmlBody.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Components\\HtmlBody.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\HtmlBody.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Components\\HtmlBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:06:42.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HtmlHeader.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\HtmlHeader.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Components\\HtmlHeader.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\HtmlHeader.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Components\\HtmlHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:06:26.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFooter.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\IFooter.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Components\\IFooter.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\IFooter.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Components\\IFooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:06:07.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBody.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\IBody.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Components\\IBody.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\IBody.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Components\\IBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:05:53.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHeader.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\IHeader.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Components\\IHeader.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Components\\IHeader.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Components\\IHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:05:19.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocumentRendererFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Renderers\\DocumentRendererFactory.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Renderers\\DocumentRendererFactory.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Renderers\\DocumentRendererFactory.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Renderers\\DocumentRendererFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:28:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvoiceRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Renderers\\InvoiceRenderer.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Renderers\\InvoiceRenderer.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Renderers\\InvoiceRenderer.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Renderers\\InvoiceRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:27:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Renderers\\ReportRenderer.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Renderers\\ReportRenderer.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Renderers\\ReportRenderer.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Renderers\\ReportRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:27:11.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDocumentRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Renderers\\IDocumentRenderer.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Renderers\\IDocumentRenderer.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Renderers\\IDocumentRenderer.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Renderers\\IDocumentRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:26:47.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DocumentDataBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Builders\\DocumentDataBuilder.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Core\\Builders\\DocumentDataBuilder.cs",
+              "ToolTip": "C:\\Users\\User1\\Desktop\\documente facultate\\anu2\\mihnea\\sem2\\map\\laboratoare\\lab5\\lab5\\DocumentGenerator.Core\\Builders\\DocumentDataBuilder.cs",
+              "RelativeToolTip": "DocumentGenerator.Core\\Builders\\DocumentDataBuilder.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:21:08.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

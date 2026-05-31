@@ -1,0 +1,12 @@
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\bin\Debug\net8.0\DocumentGenerator.Core.deps.json
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\bin\Debug\net8.0\DocumentGenerator.Core.dll
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\bin\Debug\net8.0\DocumentGenerator.Core.pdb
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\obj\Debug\net8.0\DocumentGenerator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\obj\Debug\net8.0\DocumentGenerator.Core.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\obj\Debug\net8.0\DocumentGenerator.Core.AssemblyInfo.cs
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\obj\Debug\net8.0\DocumentGenerator.Core.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\obj\Debug\net8.0\DocumentGenerator.Core.sourcelink.json
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\obj\Debug\net8.0\DocumentGenerator.Core.dll
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\obj\Debug\net8.0\refint\DocumentGenerator.Core.dll
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\obj\Debug\net8.0\DocumentGenerator.Core.pdb
+C:\Users\User1\Desktop\documente facultate\anu2\mihnea\sem2\map\laboratoare\lab5\lab5\DocumentGenerator.Core\obj\Debug\net8.0\ref\DocumentGenerator.Core.dll
