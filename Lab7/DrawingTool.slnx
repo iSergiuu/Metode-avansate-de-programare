@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DrawingTool.Client/DrawingTool.Client.csproj" />
+    <Project Path="src/DrawingTool.Core/DrawingTool.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DrawingTool.Tests/DrawingTool.Tests.csproj" />
+  </Folder>
+</Solution>
