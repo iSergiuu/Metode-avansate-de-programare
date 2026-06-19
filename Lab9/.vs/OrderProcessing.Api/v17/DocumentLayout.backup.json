@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\states\\pendingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\states\\pendingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\validation\\frauddetectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\validation\\frauddetectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\domain\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\domain\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\validation\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\validation\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\validation\\stockvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\validation\\stockvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\validation\\pricevalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\validation\\pricevalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\validation\\iordervalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\validation\\iordervalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\validation\\basevalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\validation\\basevalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\validation\\ageverificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\validation\\ageverificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\states\\shippedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\states\\shippedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\states\\processingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\states\\processingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\states\\iorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\states\\iorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\states\\invalidordertransitionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\states\\invalidordertransitionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\states\\deliveredstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\states\\deliveredstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\states\\confirmedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\states\\confirmedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\states\\cancelledstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\states\\cancelledstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\services\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\services\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\endpoints\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\endpoints\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\domain\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\domain\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\domain\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\domain\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|c:\\facultate\\anul 2\\semestrul 2\\map (metode avansatede programare)\\map2026\\orderprocessing.api\\orderprocessing.api\\orderprocessing.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B95721AC-B0FF-4C13-8240-5BD5FAB05F97}|OrderProcessing.Api\\OrderProcessing.Api.csproj|solutionrelative:orderprocessing.api\\orderprocessing.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 174,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\appsettings.json",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\appsettings.json",
+              "RelativeToolTip": "OrderProcessing.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-25T11:51:46.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\wwwroot\\app.js",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\wwwroot\\app.js",
+              "RelativeToolTip": "OrderProcessing.Api\\wwwroot\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-25T11:35:09.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\wwwroot\\styles.css",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\wwwroot\\styles.css",
+              "RelativeToolTip": "OrderProcessing.Api\\wwwroot\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-25T11:34:26.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\wwwroot\\index.html",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\wwwroot\\index.html",
+              "RelativeToolTip": "OrderProcessing.Api\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-25T11:34:02.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:27:03.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InMemoryOrderRepository.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Services\\InMemoryOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Services\\InMemoryOrderRepository.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Services\\InMemoryOrderRepository.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Services\\InMemoryOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:26:51.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AgeVerificationHandler.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\AgeVerificationHandler.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Validation\\AgeVerificationHandler.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\AgeVerificationHandler.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Validation\\AgeVerificationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:25:57.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FraudDetectionHandler.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\FraudDetectionHandler.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Validation\\FraudDetectionHandler.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\FraudDetectionHandler.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Validation\\FraudDetectionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:25:40.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PriceValidationHandler.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\PriceValidationHandler.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Validation\\PriceValidationHandler.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\PriceValidationHandler.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Validation\\PriceValidationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:25:23.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockValidationHandler.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\StockValidationHandler.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Validation\\StockValidationHandler.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\StockValidationHandler.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Validation\\StockValidationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:25:03.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseValidationHandler.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\BaseValidationHandler.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Validation\\BaseValidationHandler.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\BaseValidationHandler.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Validation\\BaseValidationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:23:21.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderValidationHandler.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\IOrderValidationHandler.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Validation\\IOrderValidationHandler.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\IOrderValidationHandler.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Validation\\IOrderValidationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:23:06.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Validation\\ValidationResult.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Validation\\ValidationResult.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Validation\\ValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:22:28.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CancelledState.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\CancelledState.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\States\\CancelledState.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\CancelledState.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\States\\CancelledState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:21:23.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeliveredState.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\DeliveredState.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\States\\DeliveredState.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\DeliveredState.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\States\\DeliveredState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:21:10.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShippedState.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\ShippedState.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\States\\ShippedState.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\ShippedState.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\States\\ShippedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:20:57.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProcessingState.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\ProcessingState.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\States\\ProcessingState.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\ProcessingState.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\States\\ProcessingState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:20:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConfirmedState.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\ConfirmedState.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\States\\ConfirmedState.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\ConfirmedState.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\States\\ConfirmedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:20:28.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PendingState.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\PendingState.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\States\\PendingState.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\PendingState.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\States\\PendingState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:20:05.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderState.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\IOrderState.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\States\\IOrderState.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\IOrderState.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\States\\IOrderState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:19:30.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InvalidOrderTransitionException.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\InvalidOrderTransitionException.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\States\\InvalidOrderTransitionException.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\States\\InvalidOrderTransitionException.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\States\\InvalidOrderTransitionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:19:13.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Domain\\Order.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\Order.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:17:07.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Domain\\OrderItem.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\OrderItem.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Domain\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:16:35.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Domain\\Customer.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\Customer.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:16:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\Address.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Domain\\Address.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\Address.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Domain\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:15:52.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\Money.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Domain\\Money.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\Money.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Domain\\Money.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:15:24.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderId.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\OrderId.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Domain\\OrderId.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Domain\\OrderId.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Domain\\OrderId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:14:59.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderEndpoints.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Endpoints\\OrderEndpoints.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Endpoints\\OrderEndpoints.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Endpoints\\OrderEndpoints.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Endpoints\\OrderEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:02:01.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Program.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\Program.cs",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\Program.cs",
+              "RelativeToolTip": "OrderProcessing.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:01:27.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderProcessing.Api.csproj",
+              "DocumentMoniker": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\OrderProcessing.Api.csproj",
+              "RelativeDocumentMoniker": "OrderProcessing.Api\\OrderProcessing.Api.csproj",
+              "ToolTip": "C:\\Facultate\\Anul 2\\Semestrul 2\\MAP (Metode avansatede programare)\\MAP2026\\OrderProcessing.Api\\OrderProcessing.Api\\OrderProcessing.Api.csproj",
+              "RelativeToolTip": "OrderProcessing.Api\\OrderProcessing.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-24T15:43:08.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

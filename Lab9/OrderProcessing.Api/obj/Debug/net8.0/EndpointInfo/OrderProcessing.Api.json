@@ -1,0 +1,257 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "OrderProcessing.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/orders": {
+      "post": {
+        "tags": [
+          "OrderProcessing.Api"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateOrderRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "OrderProcessing.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/orders/{id}/pay": {
+      "post": {
+        "tags": [
+          "OrderProcessing.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/orders/{id}/process": {
+      "post": {
+        "tags": [
+          "OrderProcessing.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/orders/{id}/ship": {
+      "post": {
+        "tags": [
+          "OrderProcessing.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/orders/{id}/deliver": {
+      "post": {
+        "tags": [
+          "OrderProcessing.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/orders/{id}/cancel": {
+      "post": {
+        "tags": [
+          "OrderProcessing.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/orders/{id}": {
+      "get": {
+        "tags": [
+          "OrderProcessing.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CreateOrderRequest": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "age": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "isTrusted": {
+            "type": "boolean"
+          },
+          "street": {
+            "type": "string",
+            "nullable": true
+          },
+          "city": {
+            "type": "string",
+            "nullable": true
+          },
+          "postalCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "country": {
+            "type": "string",
+            "nullable": true
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/OrderItem"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "OrderItem": {
+        "type": "object",
+        "properties": {
+          "productId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "productName": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "unitPrice": {
+            "type": "number",
+            "format": "double"
+          },
+          "hasAgeRestriction": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "OrderProcessing.Api"
+    }
+  ]
+}

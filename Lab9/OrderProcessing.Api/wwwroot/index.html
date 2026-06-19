@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OrderProcessing - Lab 4</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="spa-window">
+        <div class="spa-header">
+            <div class="spa-title">OrderProcessing</div>
+            <a href="/swagger" class="spa-link" target="_blank">Swagger ↗</a>
+        </div>
+
+        <div class="spa-body">
+            <div class="spa-col">
+                <div class="spa-panel">
+                    <button id="btn-new-order" class="spa-new-btn">+ Comandă nouă</button>
+                    <div class="spa-panel-label">Orders <span id="orders-count" class="pl-count">· 0</span></div>
+                    <div id="orders-list">
+                    </div>
+                </div>
+            </div>
+
+            <div class="spa-col" id="order-details-col" style="visibility: hidden;">
+                <div class="spa-panel">
+                    <div class="spa-panel-label">Order Details</div>
+                    <dl class="spa-detail-grid" id="order-info"></dl>
+                </div>
+
+                <div class="spa-panel">
+                    <div class="spa-panel-label">State Diagram</div>
+                    <div class="spa-mini-state" id="order-state-diagram"></div>
+                </div>
+
+                <div class="spa-panel">
+                    <div class="spa-panel-label">Actions <span class="pl-count" style="color:#6e7681;">tranziții permise din starea curentă</span></div>
+                    <div class="spa-actions" id="order-actions"></div>
+                </div>
+
+                <div class="spa-panel">
+                    <div class="spa-panel-label">History</div>
+                    <div class="spa-history" id="order-history"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="toast" class="spa-toast" style="display: none;">
+            <span id="toast-msg" class="msg"></span>
+            <span class="close" id="toast-close">close ✕</span>
+        </div>
+    </div>
+
+    <div id="modal" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <div class="spa-panel-label" style="margin-bottom: 1rem;">Creare Comandă Nouă</div>
+            <input type="text" id="new-name" placeholder="Nume client (ex: Ion Popescu)" value="Ion Popescu">
+            <input type="email" id="new-email" placeholder="Email" value="ion@exemplu.ro">
+            <input type="number" id="new-age" placeholder="Vârstă" value="22">
+            <label style="font-size: 12px; color: #8b949e; display: block; margin-top: 10px;">
+                <input type="checkbox" id="new-trusted" checked> Client de încredere
+            </label>
+            <hr style="border: 0; border-top: 1px solid #30363d; margin: 15px 0;">
+            <div class="spa-actions" style="grid-template-columns: 1fr 1fr;">
+                <button class="spa-action enabled" id="btn-submit">Salvează</button>
+                <button class="spa-action cancel" id="btn-cancel">Anulează</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
